@@ -75,7 +75,11 @@ This project uses **JMP-based statistical modeling** to uncover relationships an
 
 ---
 
-## 🔹 Repository Structure
+## 📁 Repository Structure
+
+The repository is organized as follows:
+
+```bash
 LNP-Structure-Activity-Modeling/
 ├── README.md                          # Project overview and documentation
 │
