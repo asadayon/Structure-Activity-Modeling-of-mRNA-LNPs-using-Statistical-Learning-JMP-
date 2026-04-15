@@ -1,6 +1,7 @@
 # 🔬 Structure–Activity Modeling of mRNA-LNPs
 
 This repository presents statistical analysis and predictive modeling of lipid nanoparticle (LNP) formulations to understand how composition impacts physicochemical properties, biodistribution, and mRNA expression.
+
 Paper Link: https://www.biorxiv.org/content/10.64898/2026.03.20.712457v1.abstract
 
 ---
