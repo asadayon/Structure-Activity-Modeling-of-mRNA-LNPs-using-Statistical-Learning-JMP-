@@ -34,6 +34,11 @@ This project uses **JMP-based statistical modeling** to uncover relationships an
 
 *Fig 6. Statistical and predictive modeling of LNP size. Significant effects observed from ionizable and helper lipids. Decision trees and SVR capture nonlinear relationships.*
 
+## 🔹 SVM Grid Search and Model Selection
+
+![LNP Size](figures/SVM_Output.png)
+
+
 ---
 
 ## 🔹 Zeta Potential Analysis
