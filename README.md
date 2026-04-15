@@ -76,3 +76,26 @@ This project uses **JMP-based statistical modeling** to uncover relationships an
 ---
 
 ## 🔹 Repository Structure
+LNP-Structure-Activity-Modeling/
+├── README.md                          # Project overview and documentation
+│
+├── figures/                           # Figures used in manuscript (Fig 5–9)
+│   ├── fig5_overview.png              # System-level relationships
+│   ├── fig6_size.png                  # Size analysis (ANOVA, DT, SVR)
+│   ├── fig7_zeta.png                  # Zeta potential analysis
+│   ├── fig8_biodistribution.png       # Biodistribution across organs
+│   ├── fig9_mrna.png                  # mRNA expression analysis
+│   ├── SVM_Output.png                 # SVR modeling output
+│   └── a.txt                          # Notes / temporary file (optional → remove if not needed)
+│
+├── jmp_files/                         # JMP analysis files (.jmp)
+│   ├── Figure 6abc ANOVA Kruskal SVM size to Formulation.jmp
+│   ├── Figure 7ab,s2ab Kruskal Decision Tree Zeta, PDI to Formulation.jmp
+│   ├── Figure 7c, s2c SVM PDI, Zeta to formulation.jmp
+│   ├── Figure 8ab,10ab,s3a,s4a ANOVA (mRNA, RhB) to (Formulation) per mice.jmp
+│   ├── Figure 8c Bar Graph Organ vs RhB.jmp
+│   ├── Figure 10c Bar Graph Organ vs mRNA.jmp
+│   ├── Figure 9,11,s3b,s4b Decision Tree (Formulation) to (mRNA and RhB).jmp
+│   ├── Table 3,4 Kruskal Test (mRNA and RhB) to Formulation.jmp
+│   └── Table 5 Correlation (size, pdi, zeta) to (mRNA, RhB).jmp
+
